@@ -8,3 +8,5 @@ The Least Significant Bit Coding (LSB) : is one of the earliest techniques in t
 The used IDE is eclipse. The documentation and all project artifacts are uploaded.
 
 If you have any questions or want to continue this project feel free to do so 
+
+Please visit my website. http://www.mohamedtalaat.net/
